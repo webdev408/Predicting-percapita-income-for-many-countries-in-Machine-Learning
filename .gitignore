@@ -1,0 +1,11 @@
+# Exclude first.ipynb from version control
+first.ipynb
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
